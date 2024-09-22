@@ -11,24 +11,16 @@
 - ⚡ Fun fact **I AM FUNNY😅**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/rajiv-yadav-20820829b" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://facebook.com/rajivyadav" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/rajivydv123" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/rajiv-yadav-20820829b" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
-<p align="left">
-<a href="https://fb.com/rajivyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajivyadav" height="30" width="40" /></a>
-<a href="https://instagram.com/rajivydv123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajivydv123" height="30" width="40" /></a>
-</p>
+    <a href="https://www.linkedin.com/in/rajiv-yadav-20820829b" target="blank">
+      <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" height="30" width="40" />
+    </a>
+    <a href="https://fb.com/rajivyadav" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajivyadav" height="30" width="40" /></a>
+          <a href="https://instagram.com/rajivydv123" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajivydv123" height="30" width="40" /></a>
+  </p>
 
 
 
