@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm RAJIV YADAV</h1>
 <h3 align="center">A passionate Software Engineer from NEPAL.</h3>
-<img align="right"alt="coding"width="400"src="C:\Users\Dell\OneDrive - padmashree International College\Desktop\71780169.jpg">
+<img align="right"alt="coding"width="400"src="C:\Users\Dell\OneDrive - padmashree International College\Desktop\github">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajivyadav1103&label=Profile%20views&color=0e75b6&style=flat" alt="rajivyadav1103" /> </p>
+<p align="left"> <img src="C:\Users\Dell\OneDrive - padmashree International College\Desktop\github" alt="rajivyadav1103" /> </p>
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/rajiv-yadav-20820829b](www.linkedin.com/in/rajiv-yadav-20820829b)
 
