@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm RAJIV YADAV</h1>
 <h3 align="center">A passionate Software Engineer from NEPAL.</h3>
-<img align="right"alt="coding"width="400"src="["C:\Users\Dell\Downloads\Evolution-of-Coding-scaled.jpg"](https://github.com/Rajivyadav1103/rajiv.jpg/blob/main/rajivyadav.jpg?raw=true)">
+<img align="right"alt="coding"width="400"src="[["C:\Users\Dell\Downloads\Evolution-of-Coding-scaled.jpg"](https://github.com/Rajivyadav1103/rajiv.jpg/blob/main/rajivyadav.jpg?raw=true)](https://github.com/Rajivyadav1103/rajiv.jpg)">
 
 <p align="left"> <img src="[C:\Users\Dell\OneDrive - padmashree International College\Desktop\github" alt="rajivyadav1103](https://github.com/account)" /> </p>
 
