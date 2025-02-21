@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm RAJIV YADAV</h1>
 <h3 align="center">A passionate Software Engineer from NEPAL.</h3>
 <img align="right" alt="coding" width="400" src="["https://raw.githubusercontent.com/Rajivyadav1103/main/rajiv.jpg](https://imgur.com/a/m5hefrg)">
+<img align="right" alt="coding" width="400" src="https://i.imgur.com/your-image.jpg">
 
 
 <p align="left"> <img src="[C:\Users\Dell\OneDrive - padmashree International College\Desktop\github" alt="rajivyadav1103](https://github.com/account)" /> </p>
