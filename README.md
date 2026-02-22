@@ -61,11 +61,7 @@
 
 <div align="center">
   
-  <!-- Alternative 1: GitHub Readme Stats Graph -->
-  <img src="https://github-readme-stats.vercel.app/api?username=rajivyadav1103&show_icons=true&count_private=true&include_all_commits=true&theme=green" width="500"/>
-  
-  <!-- Alternative 2: Wakatime (if you use it) -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rajivyadav1103&theme=green" width="500"/> 
+
   
   <!-- Alternative 3: Profile Summary Cards -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajivyadav1103&theme=github_dark" width="700"/> 
