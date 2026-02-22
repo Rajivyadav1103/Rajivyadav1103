@@ -46,9 +46,9 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajivyadav1103&layout=compact&hide_border=true&title_color=00FF00&text_color=00FF00&bg_color=0d1117" />
-</div>
+</div> -->
 
 <br/>
 
@@ -99,18 +99,3 @@
   ![Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
   
 </div>
-
-<br/>
-
-
-
-<br/>
-
-## 🎯 **Current Focus**
-```csharp
-while (alive) {
-    eat();
-    code();
-    sleep();
-    repeat();
-}
