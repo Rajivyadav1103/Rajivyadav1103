@@ -71,16 +71,24 @@
 
 
   
-  <!-- Stats Cards -->
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=rajivyadav1103&show_icons=true&count_private=true&hide_border=true&theme=github-dark&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff" width="400"/>
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajivyadav1103&hide_border=true&theme=github-dark&background=0d1117&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakNum=ffffff&sideNums=00ff00&currStreakLabel=00ff00&sideLabels=ffffff&dates=ffffff" width="400"/>
-      </td>
-    </tr>
-  </table>
-  
+<!-- Stats Cards -->
+<table>
+  <tr>
+    <td>
+      <!-- GitHub Stats Card -->
+      <img src="https://github-readme-stats.vercel.app/api?username=rajivyadav1103&show_icons=true&count_private=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff" width="400"/>
+    </td>
+    <td>
+      <!-- GitHub Streak Card (using more reliable demolab domain) -->
+      <img src="https://streak-stats.demolab.com/?user=rajivyadav1103&hide_border=true&theme=github-dark&background=0d1117&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakNum=ffffff&sideNums=00ff00&currStreakLabel=00ff00&sideLabels=ffffff&dates=ffffff" width="400"/>
+    </td>
+  </tr>
+</table>
+
+<!-- Optional: Add a fallback message or a summary card -->
+<div align="center">
+  <i>Note: Stats cards load from external services and may occasionally be unavailable.</i>
+  <br/><br/>
+  <!-- Profile Summary Card (as a reliable backup) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajivyadav1103&theme=github_dark" width="700"/>
 </div>
