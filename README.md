@@ -108,10 +108,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajivyadav1103&theme=github-dark" width="95%"/>
   
   <!-- or use React Dark Theme -->
-  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajivyadav1103&theme=react-dark" width="95%"/> -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajivyadav1103&theme=react-dark" width="95%"/>
   
   <!-- or use Tokyo Night Theme -->
-  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajivyadav1103&theme=tokyo-night" width="95%"/> -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajivyadav1103&theme=tokyo-night" width="95%"/> 
   
 </div>
 
@@ -154,10 +154,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rajivyadav1103&show_icons=true&count_private=true&include_all_commits=true&theme=green" width="500"/>
   
   <!-- Alternative 2: Wakatime (if you use it) -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rajivyadav1103&theme=green" width="500"/> -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rajivyadav1103&theme=green" width="500"/> 
   
   <!-- Alternative 3: Profile Summary Cards -->
-  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajivyadav1103&theme=github_dark" width="700"/> -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajivyadav1103&theme=github_dark" width="700"/> 
   
 </div>
 <br>
