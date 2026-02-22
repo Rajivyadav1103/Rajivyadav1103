@@ -1,85 +1,126 @@
-<h1 align="center">Hi 👋, I'm RAJIV YADAV</h1>
-<h3 align="center">A passionate Software Engineer from NEPAL</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋,+I'm+RAJIV+YADAV;+A+Passionate+Software+Engineer+🇳🇵" />
+</h1>
 
-<img align="right" alt="coding" width="400" src="https://i.imgur.com/m5hefrg.jpg">
+<h3 align="center">Building amazing things from NEPAL ✨</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=rajivyadav1103&label=Profile%20views&color=0e75b6&style=flat" alt="rajivyadav1103" /> 
-</p>
+<div align="center">
+  
+  🔭 I'm currently working on **Payroll Management System**
+  
+  🌱 I'm learning **ASP.NET Core & React**
+  
+  💬 Ask me about **C#, SQL, .NET, JavaScript... or anything tech**
+  
+  📫 Reach me at **rajivyadav1103@gmail.com**
+  
+  ⚡ Fun fact **I debug with console.log() like a pro 😅**
+  
+</div>
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/rajiv-yadav-20820829b](https://www.linkedin.com/in/rajiv-yadav-20820829b)
-
-- 📫 How to reach me **rajivyadav1103@gmail.com**
-
-- ⚡ Fun fact **I AM FUNNY 😅**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/rajiv-yadav-20820829b" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" height="30" width="40" />
+<div align="center"> 
+  <a href="mailto:rajivyadav1103@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://fb.com/rajivyadav" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajivyadav" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/rajiv-yadav-20820829b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/rajivydv123" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajivydv123" height="30" width="40" />
+  <a href="https://github.com/rajivyadav1103" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
+  <a href="https://instagram.com/rajivydv123" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-</p>
+<br/>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajivyadav1103&show_icons=true&locale=en&layout=compact" alt="rajivyadav1103" />
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajivyadav1103&show_icons=true&locale=en" alt="rajivyadav1103" />
-</p>
+## 📊 **GitHub Analytics**
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajivyadav1103&" alt="rajivyadav1103" />
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajivyadav1103&show_icons=true&count_private=true&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajivyadav1103&hide_border=true&date_format=M%20j%5%2C%20Y&background=0d1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=00FF00" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajivyadav1103&layout=compact&hide_border=true&title_color=00FF00&text_color=00FF00&bg_color=0d1117" />
+</div>
+
+<br/>
+
+## 🏆 **GitHub Trophies**
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rajivyadav1103&theme=matrix&no-frame=true&no-bg=false&margin-w=4" />
+</div>
+
+<br/>
+
+## 📈 **Contribution Graph**
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajivyadav1103&custom_title=Rajiv's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=00FF00&line=00FF00&point=00FF00&area_color=FFFFFF&title_color=00FF00&area=true&hide_border=true" />
+</div>
+
+<br/>
+
+## 🚀 **Current Stats Dashboard**
+
+<div align="center">
+  
+  | **Metric** | **Value** |
+  |------------|-----------|
+  | **Total Contributions** (Last Year) | ![Contributions](https://img.shields.io/badge/dynamic/json?color=00FF00&label=Contributions&query=totalContributions&url=https://github-contributions-api.deno.dev/rajivyadav1103) |
+  | **Current Streak** | ![Current Streak](https://img.shields.io/badge/dynamic/json?color=00FF00&label=Current%20Streak&query=currentStreak&url=https://github-contributions-api.deno.dev/rajivyadav1103) |
+  | **Longest Streak** | ![Longest Streak](https://img.shields.io/badge/dynamic/json?color=00FF00&label=Longest%20Streak&query=longestStreak&url=https://github-contributions-api.deno.dev/rajivyadav1103) |
+  | **Total Stars** | ![Stars](https://img.shields.io/github/stars/rajivyadav1103?color=00FF00&style=flat) |
+  | **Followers** | ![Followers](https://img.shields.io/github/followers/rajivyadav1103?color=00FF00&style=flat) |
+  
+</div>
+
+<br/>
+
+## 💻 **Tech Stack**
+
+<div align="center">
+  
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+  ![Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+  
+</div>
+
+<br/>
+
+## 🐍 **Watch my contributions get eaten**
+<div align="center">
+  
+  ![snake gif](https://github.com/rajivyadav1103/rajivyadav1103/blob/output/github-contribution-grid-snake-dark.svg)
+  
+</div>
+
+<br/>
+
+## 🎯 **Current Focus**
+```csharp
+while (alive) {
+    eat();
+    code();
+    sleep();
+    repeat();
+}
