@@ -19,9 +19,7 @@
 </div>
 
 <div align="center"> 
-  <a href="mailto:rajivyadav1103@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
+
   <a href="https://www.linkedin.com/in/rajiv-yadav-20820829b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -54,10 +52,7 @@
 
 <br/>
 
-## 🏆 **GitHub Trophies**
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajivyadav1103&theme=matrix&no-frame=true&no-bg=false&margin-w=4" />
-</div>
+
 
 <br/>
 
