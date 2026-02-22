@@ -68,30 +68,6 @@
   
 </div>
 <br>
-
-
-  <!--   thanks you-->
-
-  <!-- THANK YOU SECTION -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rajivyadav1103/rajivyadav1103/main/assets/thanks.gif" width="100%">
-  
-  <h2>
-    <img src="https://raw.githubusercontent.com/rajivyadav1103/rajivyadav1103/main/assets/star.gif" width="30">
-    Thank You for Visiting!
-    <img src="https://raw.githubusercontent.com/rajivyadav1103/rajivyadav1103/main/assets/star.gif" width="30">
-  </h2>
-  
-  <h3>✨ May your code always compile on the first try ✨</h3>
-  
-  <br/>
-  
-
-</div>
-
-
-<!--2 -->
-
 <!-- ===== SKILLS SECTION ===== -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -128,11 +104,33 @@
   </p>
 </div>
 
-<style>
-  @keyframes bounce {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-10px); }
-  }
-</style>
+
+
+
+  <!--   thanks you-->
+
+  <!-- THANK YOU SECTION -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rajivyadav1103/rajivyadav1103/main/assets/thanks.gif" width="100%">
+  
+  <h2>
+    <img src="https://raw.githubusercontent.com/rajivyadav1103/rajivyadav1103/main/assets/star.gif" width="30">
+    Thank You for Visiting!
+    <img src="https://raw.githubusercontent.com/rajivyadav1103/rajivyadav1103/main/assets/star.gif" width="30">
+  </h2>
+  
+  <h3>✨ May your code always compile on the first try ✨</h3>
+  
+  <br/>
+  
+
+</div>
+
+
+<!--2 -->
+
+
+
+
 
 
