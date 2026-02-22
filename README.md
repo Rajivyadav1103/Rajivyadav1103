@@ -100,7 +100,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" style="animation: bounce 3s infinite; margin: 10px;"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" style="animation: bounce 3.2s infinite; margin: 10px;"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="50" style="animation: bounce 3.4s infinite; margin: 10px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="50" style="animation: bounce 3.6s infinite; margin: 10px;"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"
+     width="50"
+     class="aws-icon"/>
   </p>
 </div>
 
