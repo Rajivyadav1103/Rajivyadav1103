@@ -70,4 +70,35 @@
 <br>
 
 
+  <!--   thanks you-->
+
+  <!-- THANK YOU SECTION -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rajivyadav1103/rajivyadav1103/main/assets/thanks.gif" width="100%">
   
+  <h2>
+    <img src="https://raw.githubusercontent.com/rajivyadav1103/rajivyadav1103/main/assets/star.gif" width="30">
+    Thank You for Visiting!
+    <img src="https://raw.githubusercontent.com/rajivyadav1103/rajivyadav1103/main/assets/star.gif" width="30">
+  </h2>
+  
+  <h3>✨ May your code always compile on the first try ✨</h3>
+  
+  <br/>
+  
+  <!-- Visitor Counter -->
+  <img src="https://profile-counter.glitch.me/rajivyadav1103/count.svg" />
+  
+  <br/><br/>
+  
+  <p>
+    <a href="https://github.com/rajivyadav1103?tab=repositories">
+      <img src="https://img.shields.io/badge/Explore%20My%20Repos-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=00FFAA&color=0D1117"/>
+    </a>
+    <a href="mailto:rajivyadav1103@gmail.com">
+      <img src="https://img.shields.io/badge/Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=00FFAA&color=0D1117"/>
+    </a>
+  </p>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+</div>
