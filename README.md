@@ -103,5 +103,85 @@
 ## 📈 Contribution Graph
 
 <div align="center">
+  
+  <!-- GitHub Dark Theme -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajivyadav1103&theme=github-dark" width="95%"/>
+  
+  <!-- or use React Dark Theme -->
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajivyadav1103&theme=react-dark" width="95%"/> -->
+  
+  <!-- or use Tokyo Night Theme -->
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajivyadav1103&theme=tokyo-night" width="95%"/> -->
+  
+</div>
+
+<br>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+  ### 📈 Contribution Graph
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajivyadav1103&theme=github-dark&bg_color=0d1117&hide_border=true" width="95%"/>
+  
+  <br/><br/>
+  
+  ### ⚡ Stats Dashboard
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=rajivyadav1103&show_icons=true&count_private=true&hide_border=true&theme=github-dark&bg_color=0d1117" width="400"/>
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajivyadav1103&hide_border=true&theme=github-dark&bg_color=0d1117" width="400"/>
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
+  
+  ### 💻 Most Used Languages
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajivyadav1103&layout=compact&hide_border=true&theme=github-dark&bg_color=0d1117" width="400"/>
+  
+</div>
+
+<br>
+## 📈 Contribution Graph
+
+<div align="center">
+  
+  <!-- Alternative 1: GitHub Readme Stats Graph -->
+  <img src="https://github-readme-stats.vercel.app/api?username=rajivyadav1103&show_icons=true&count_private=true&include_all_commits=true&theme=green" width="500"/>
+  
+  <!-- Alternative 2: Wakatime (if you use it) -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rajivyadav1103&theme=green" width="500"/> -->
+  
+  <!-- Alternative 3: Profile Summary Cards -->
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajivyadav1103&theme=github_dark" width="700"/> -->
+  
+</div>
+<br>
+
+## 📊 GitHub Activity Dashboard
+
+<div align="center">
+  
+  <!-- Activity Graph -->
+  ### 📈 Contribution Graph
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajivyadav1103&theme=github-dark&bg_color=0d1117&hide_border=true&area=true" width="95%"/>
+  
+  <br/><br/>
+  
+  <!-- Stats Cards -->
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=rajivyadav1103&show_icons=true&count_private=true&hide_border=true&theme=github-dark&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff" width="400"/>
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajivyadav1103&hide_border=true&theme=github-dark&background=0d1117&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakNum=ffffff&sideNums=00ff00&currStreakLabel=00ff00&sideLabels=ffffff&dates=ffffff" width="400"/>
+      </td>
+    </tr>
+  </table>
+  
 </div>
