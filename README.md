@@ -86,19 +86,58 @@
   
   <br/>
   
-  <!-- Visitor Counter -->
-  <img src="https://profile-counter.glitch.me/rajivyadav1103/count.svg" />
+
+</div>
+
+
+<!--2 -->
+
+<!-- FOOTER SECTION -->
+<div align="center">
+  <br/>
   
-  <br/><br/>
+  ### 🙏 Thank you for stopping by!
   
   <p>
+    <i>If you like my work, consider giving a ⭐ to my repositories</i>
+  </p>
+  
+  <br/>
+  
+  <!-- Quick Links -->
+  <p>
     <a href="https://github.com/rajivyadav1103?tab=repositories">
-      <img src="https://img.shields.io/badge/Explore%20My%20Repos-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=00FFAA&color=0D1117"/>
+      <img src="https://img.shields.io/badge/My%20Work-GitHub-00FFAA?style=flat-square&logo=github&logoColor=white&labelColor=0D1117"/>
     </a>
+    •
+    <a href="https://www.linkedin.com/in/rajiv-yadav-20820829b">
+      <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-00FFAA?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D1117"/>
+    </a>
+    •
     <a href="mailto:rajivyadav1103@gmail.com">
-      <img src="https://img.shields.io/badge/Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=00FFAA&color=0D1117"/>
+      <img src="https://img.shields.io/badge/Send%20Message-Email-00FFAA?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117"/>
     </a>
   </p>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+  <br/>
+  
+  <!-- Visitors -->
+  <img src="https://profile-counter.glitch.me/rajivyadav1103/count.svg" alt="Visitors"/>
+  
+  <br/>
+  <br/>
+  
+  <!-- Copyright -->
+  <p>
+    <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Rajiv%20Yadav-00FFAA?style=flat-square&labelColor=0D1117"/>
+  </p>
+  
+  <!-- Last Updated -->
+  <sub>🔄 Last updated: 2026-02-22</sub>
+  
+  <br/>
+  <br/>
+  
+  <!-- Small Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=50&section=footer"/>
 </div>
