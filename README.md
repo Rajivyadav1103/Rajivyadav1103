@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  🔭 I'm currently working on **DotNet-MVC-JWT-Authentication**
+  🔭 I'm currently working on **DevOps Skills**
   
   🌱 I'm learning **ASP.NET Core & React**
   
