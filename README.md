@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=650&height=80&duration=4000&lines=Hi+%F0%9F%91%8B%2C+I'm+Rajiv+Yadav; Passionate+Software+Engineer+from+Nepal+%F0%9F%87%B3%F0%9F%87%B5;ASP.NET+Core+%7C+React+%7C+DevOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=650&height=80&duration=4000&lines=Hi+%F0%9F%91%8B%2C+I'm+Rajiv+Yadav;Passionate+Software+Engineer+from+Nepal+%F0%9F%87%B3%F0%9F%87%B5;ASP.NET+Core+%7C+React+%7C+DevOps" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">Building useful software, learning deeply, and growing one commit at a time.</h3>
